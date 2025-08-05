@@ -1,2 +1,2 @@
-nome = input ("nome:")
-print("diga nome", nome)
+nome = input ("digite seu nome:")
+print ("seja bem-vindo", nome)
